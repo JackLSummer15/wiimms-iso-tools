@@ -3,7 +3,7 @@ The repository I posted here contains 2 batch files for extracting and repacking
 
 I took the idea from this video by  The Proboscis Archive: https://www.youtube.com/watch?v=gJhXSGQuCd4&t=1199s
 
-Make sure that you install Wiimm's ISO Tools first before going using this.
+Make sure that you install Wiimm's ISO Tools first before going using this. You can get it here: https://wit.wiimm.de/
 
 1: Open Extract.bat and compose.bat in your text editor like Notepad ++.
 
