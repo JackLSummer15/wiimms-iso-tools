@@ -4,11 +4,11 @@
 ::-----------------------------------------------------------------------------
 :: settings
 
-set SRC_ID=RLGE64
-set SRC_TYPE=USAset DEST_ID=RLGE64set DEST_NAME=LEGO Star Wars: The Complete Saga
+set SRC_ID=RSPE01
+set SRC_TYPE=USAset DEST_ID=RSPE01set DEST_NAME=Wii Sports
 
 :: Edit this if you want another image format: iso wbfs wdf ciso wia
-set IMAGE_TYPE=iso::-----------------------------------------------------------------------------
+set IMAGE_TYPE=wbfs::-----------------------------------------------------------------------------
 :: job
 
 ddel -qisa ./workdir.tmp
