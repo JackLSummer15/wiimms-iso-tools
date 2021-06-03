@@ -1,9 +1,9 @@
 # wiimms-iso-tools
-The repository I posted here contains 2 batch files for extracting and repacking wbfs or iso.
+The repository I posted here contains 2 batch files for extracting and repacking either wbfs or iso.
 
 I took the idea from this video by  The Proboscis Archive: https://www.youtube.com/watch?v=gJhXSGQuCd4&t=1199s
 
-Make sure that you install Wiimm's ISO Tools first before going using this. You can get it here: https://wit.wiimm.de/
+Make sure that you install Wiimm's ISO Tools first before using this. You can get it here: https://wit.wiimm.de/
 
 1: Open Extract.bat and compose.bat in your text editor like Notepad ++.
 
